@@ -39,7 +39,7 @@ A resume of a current graduate student who is seeking a phd position related to 
 - Currently focusing on magnetic reconnection at the magnetopause and in the magnetotail during substorms.
 - Interested in multi-point magnetic reconnection theory, aiming to understand the connection and generation mechanisms between small-scale reconnection and Bursty Bulk Flows (BBFs).
 
-### **Satellite Data Processing & Simulation**
+### **Data Processing & Simulation**
 - **Data Analysis:** Proficient in using **Python** to process and visualize electromagnetic field, particle data, and positional parameters from satellites such as **THEMIS, MMS, Cluster, and OMNI**.
 - **Simulation:** Utilized **MATLAB** for simulations including the **Parker solar wind model** and **one-dimensional ion beam instability experiments**.
 
