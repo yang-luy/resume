@@ -21,8 +21,8 @@ A resume of a current graduate student who is seeking a phd position related to 
 - **Core Courses & Scores:**
   - Quantum Mechanics II (99), Thermodynamics & Statistical Physics (99), Electrodynamics (97)
   - Quantum Mechanics (98), Thermal Physics (98), C Programming (98)
-  - Probability & Mathematical Statistics (96), Electromagnetism (95), Optics (94)
-  - Advanced Mathematics I & II (90), Linear Algebra (90)
+  - Probability & Mathematical Statistics (96), Electromagnetism (95), Thermal Physics (94)
+  - Advanced Mathematics I & II (90), Linear Algebra (90)，Nonlinear Physics (93)
 
 ---
 
