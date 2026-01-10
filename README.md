@@ -57,7 +57,7 @@ A resume of a current graduate student who is seeking a phd position related to 
 ## Skills
 - **Programming & Simulation:** Proficient in **Python, MATLAB, C**; capable of data processing, analysis, and basic simulations of charged particle and magnetohydrodynamic motions.
 - **Experiment:** Experienced in designing and operating modern physics experiments.
-- **Language:** CET-6; strong academic English reading and writing abilities.
+- **Language:** CET-6; strong academic and communicating English abilities.
 
 ---
 
