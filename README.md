@@ -43,6 +43,9 @@ A resume of a current graduate student who is seeking a phd position related to 
 - **Data Analysis:** Proficient in using **Python** to process and visualize electromagnetic field, particle data, and positional parameters from satellites such as **THEMIS, MMS, Cluster, and OMNI**.
 - **Simulation:** Utilized **MATLAB** for simulations including the **Parker solar wind model** and **one-dimensional ion beam instability experiments**.
 
+### **Meeting Experience**
+- Participated in the 21st National Symposium on Sun-Earth Space Physics organized by the Space Physics Professional Committee of the Chinese Society of Space Science.
+
 ---
 
 ## Honors & Awards
