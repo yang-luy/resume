@@ -36,8 +36,7 @@ A resume of a current graduate student who is seeking a phd position related to 
 
 ### **Theoretical Study**
 - Systematically studied plasma physics and Magnetohydrodynamics (MHD) theory.
-- Currently focusing on magnetic reconnection at the magnetopause and in the magnetotail during substorms.
-- Interested in multi-point magnetic reconnection theory, aiming to understand the connection and generation mechanisms between small-scale reconnection and Bursty Bulk Flows (BBFs).
+- Currently focusing on magnetic reconnection at the magnetopause and in the magnetotail during substorms.Interested in multi-point magnetic reconnection theory, aiming to understand the connection and generation mechanisms between small-scale reconnection and Bursty Bulk Flows (BBFs).
 
 ### **Data Processing & Simulation**
 - **Data Analysis:** Proficient in using **Python** to process and visualize electromagnetic field, particle data, and positional parameters from satellites such as **THEMIS, MMS, Cluster, and OMNI**.
